@@ -1,6 +1,6 @@
 # azure-ETL
 Data Warehouse Automation in Azure
-<h2>Topics Covered in this Project:</h2>
+<h2> Resources Used in this Project:</h2>
 <p>ETL/ELT & Orchestration: Azure Data Factory</p>
 <p>Data Storage: Azure Data Lake Storage (ADLS) Gen2</p>
 <p>Data Warehousing: Azure Synapse Analytics</p>
