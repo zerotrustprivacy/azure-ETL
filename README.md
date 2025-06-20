@@ -1,10 +1,12 @@
 # azure-ETL
 Data Warehouse Automation in Azure
-ETL/ELT & Orchestration: Azure Data Factory
-Data Storage: Azure Data Lake Storage (ADLS) Gen2
-Data Warehousing: Azure Synapse Analytics
-Automation & CI/CD: Azure DevOps & Git
-Infrastructure as Code (IaC): Terraform or Bicep
+<h2>Topics Covered in this Project:</h2>
+<p>ETL/ELT & Orchestration: Azure Data Factory</p>
+<p>Data Storage: Azure Data Lake Storage (ADLS) Gen2</p>
+<p>Data Warehousing: Azure Synapse Analytics</p>
+<p>Automation & CI/CD: Azure DevOps & Git</p>
+<p>Infrastructure as Code (IaC): Terraform (Bicep)</p>
+<h2>Steps:</h2>
 <ol>
   <li>Setup & Infrastructure (IaC)</li>
   <li>Data Ingestion</li>
